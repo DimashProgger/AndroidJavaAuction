@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AuctionFinal2/app/src/main/res/drawable-v24/edit_text_bg.xml" value="0.37037037037037035" />
+        <entry key="..\:/AuctionFinal2/app/src/main/res/font/amethysta.xml" value="0.36574074074074076" />
+        <entry key="..\:/AuctionFinal2/app/src/main/res/font/montserrat.xml" value="0.37037037037037035" />
+        <entry key="..\:/AuctionFinal2/app/src/main/res/layout/activity_login.xml" value="0.2957427536231884" />
+        <entry key="..\:/AuctionFinal2/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/AuctionFinal2/app/src/main/res/layout/activity_registration.xml" value="0.2957427536231884" />
+        <entry key="..\:/AuctionFinal2/app/src/main/res/layout/category_list.xml" value="0.20520833333333333" />
+        <entry key="..\:/AuctionFinal2/app/src/main/res/layout/fragment_home.xml" value="0.28940217391304346" />
+        <entry key="..\:/AuctionFinal2/app/src/main/res/layout/new_products.xml" value="0.20520833333333333" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/activity_auction_detailed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/activity_cart.xml" value="0.30833333333333335" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/activity_create.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/activity_detailed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/activity_show_all.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/fragment_blank.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/fragment_create.xml" value="0.25" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/nav_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/new_products.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/popular_items.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/AuctionFinal2/app/src/main/res/layout/show_all_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable-hdpi/menu_back.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable-hdpi/menu_back_state.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable-hdpi/menu_item_padding.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable-hdpi/orders.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable-hdpi/promo_code.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable-hdpi/setting.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable-hdpi/support.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable-v24/edit_text_bg.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable/basket.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable/favorite.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable/search.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/drawable/text_background.xml" value="0.3828125" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/activity_address.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/activity_auction_detailed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/activity_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/activity_detailed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/activity_payment.xml" value="0.33" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/activity_payment_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/address_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/fragment_create_auction.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/fragment_home.xml" value="0.35185185185185186" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/my_cart_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/nav_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/new_products.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/popular_items.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/layout/show_all_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Backups/Diploma/AuctionFinal2/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/New Combined Separate Project/AuctionFinal2/app/src/main/res/drawable-hdpi/basket.xml" value="0.3287037037037037" />
+        <entry key="..\:/New Combined Separate Project/AuctionFinal2/app/src/main/res/layout/activity_main.xml" value="0.21739130434782608" />
+        <entry key="..\:/New Combined Separate Project/AuctionFinal2/app/src/main/res/layout/app_bar_main.xml" value="0.21739130434782608" />
+        <entry key="..\:/New Combined Separate Project/AuctionFinal2/app/src/main/res/layout/fragment_blank.xml" value="0.21739130434782608" />
+        <entry key="..\:/New Combined Separate Project/AuctionFinal2/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/drawable-hdpi/menu_back.xml" value="0.3074074074074074" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/drawable-hdpi/menu_back_state.xml" value="0.3074074074074074" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/drawable/search.xml" value="0.3074074074074074" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/activity_add_address.xml" value="0.35104166666666664" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/activity_address.xml" value="0.35104166666666664" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/activity_auction_detailed.xml" value="0.35104166666666664" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/activity_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/activity_detailed.xml" value="0.20108695652173914" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/activity_login.xml" value="0.35104166666666664" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/activity_main.xml" value="0.35104166666666664" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/activity_payment.xml" value="0.33" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/activity_payment_details.xml" value="0.35104166666666664" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/activity_registration.xml" value="0.36666666666666664" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/address_item.xml" value="0.35104166666666664" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/app_bar_main.xml" value="0.35104166666666664" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/layout/nav_header.xml" value="0.20108695652173914" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/menu/main_menu.xml" value="0.35104166666666664" />
+        <entry key="..\:/PmPresentMobProject/AuctionFinal2/app/src/main/res/menu/menu.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/drawable-v24/edit_text_bg.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/drawable/text_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/activity_auction_detailed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/activity_cart.xml" value="0.33" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/activity_create.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/activity_detailed.xml" value="0.25" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/activity_registration.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/activity_show_all.xml" value="0.33" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/fragment_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/my_cart_item.xml" value="0.33" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/new_products.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/popular_item.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/popular_items.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/layout/show_all_item.xml" value="0.25" />
+        <entry key="..\:/Users/zemba/AndroidStudioProjects/AuctionFinal2/app/src/main/res/menu/main_menu.xml" value="0.18425925925925926" />
+        <entry key="..\:/new sepparate project/AuctionFinal2/app/src/main/res/layout/activity_add_address.xml" value="0.24818840579710144" />
+        <entry key="..\:/new sepparate project/AuctionFinal2/app/src/main/res/layout/activity_address.xml" value="0.24818840579710144" />
+        <entry key="..\:/new sepparate project/AuctionFinal2/app/src/main/res/layout/activity_auction_detailed.xml" value="0.24818840579710144" />
+        <entry key="..\:/new sepparate project/AuctionFinal2/app/src/main/res/layout/activity_main.xml" value="0.24818840579710144" />
+        <entry key="..\:/new sepparate project/AuctionFinal2/app/src/main/res/layout/activity_payment.xml" value="0.24818840579710144" />
+        <entry key="..\:/new sepparate project/AuctionFinal2/app/src/main/res/layout/activity_show_all.xml" value="0.24818840579710144" />
+        <entry key="..\:/sepparate projects/AuctionFinal2/app/src/main/res/layout/activity_add_address.xml" value="0.26268115942028986" />
+        <entry key="..\:/sepparate projects/AuctionFinal2/app/src/main/res/layout/activity_address.xml" value="0.26268115942028986" />
+        <entry key="..\:/sepparate projects/AuctionFinal2/app/src/main/res/layout/activity_detailed.xml" value="0.26268115942028986" />
+        <entry key="..\:/sepparate projects/AuctionFinal2/app/src/main/res/layout/address_item.xml" value="0.26268115942028986" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

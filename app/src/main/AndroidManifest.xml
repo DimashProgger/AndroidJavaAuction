@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.auctionfinal2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AuctionFinal2">
+        <activity
+            android:name=".activites.PaymentDetails"
+            android:exported="false" />
+        <activity
+            android:name=".activites.AuctionDetailedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.PaymentPageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.AddAddressActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.AddressActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.ShowAllActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.CartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.DetailedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.RegistrationActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activites.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
